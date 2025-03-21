@@ -58,7 +58,7 @@ const skillsSection = {
     emoji(
       "⚡ Integration of third party services such as Firebase/ AWS / Digital Ocean"),
     emoji(
-      "⚡ Also can use AI-ML tech to make projects more automated")
+      "⚡ Also can use AI-ML tech to make projects more automated"),
   ],
 
   /* Make Sure to include correct Font Awesome Classname to view your icon
