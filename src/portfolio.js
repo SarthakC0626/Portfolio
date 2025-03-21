@@ -23,7 +23,7 @@ const greeting = {
   username: "Sarthak Chauhan",
   title: "Hi all, I'm Sarthak",
   subTitle: emoji(
-    "A passionate Full Stack Software Developer 🚀 having an experience of building Web and Mobile applications with JavaScript / Reactjs / Nodejs / React Native and some other cool libraries and frameworks."
+    "A passionate Full Stack Software/AI-ML Developer 🚀 having an experience of building Web and Mobile applications with JavaScript / Reactjs / Nodejs / React Native and some other cool libraries and frameworks."
   ),
   resumeLink:
     "https://drive.google.com/file/d/1CTeDexmpwmWE3ornPunkx_gkYZwDRrAf/view?usp=sharing", // Set to empty to hide the button
@@ -36,11 +36,7 @@ const socialMediaLinks = {
   github: "https://github.com/Lucifer0906",
   linkedin: "https://www.linkedin.com/in/sarthak-chauhan-a43069246/",
   gmail: "sarthakchauhan0911@gmail.com",
-  gitlab: "https://gitlab.com/saadpasta",
-  facebook: "https://www.facebook.com/saad.pasta7",
-  medium: "https://medium.com/@saadpasta",
-  stackoverflow: "https://stackoverflow.com/users/10422806/saad-pasta",
-  // Instagram, Twitter and Kaggle are also supported in the links!
+    // Instagram, Twitter and Kaggle are also supported in the links!
   // To customize icons and social links, tweak src/components/SocialMedia
   display: true // Set true to display this section, defaults to false
 };
@@ -56,8 +52,9 @@ const skillsSection = {
     ),
     emoji("⚡ Progressive Web Applications ( PWA ) in normal and SPA Stacks"),
     emoji(
-      "⚡ Integration of third party services such as Firebase/ AWS / Digital Ocean"
-    )
+      "⚡ Integration of third party services such as Firebase/ AWS / Digital Ocean")
+    emoji(
+      "⚡ Also can use AI-ML tech to make projects more automated")
   ],
 
   /* Make Sure to include correct Font Awesome Classname to view your icon
